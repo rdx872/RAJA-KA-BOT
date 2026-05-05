@@ -17,7 +17,7 @@ module.exports = {
     const { threadID, messageID } = event;
 
     const ownerPics = [
-      'https://i.ibb.co/6ckwbv4V/06291e1dc09d.jpg'
+      'https://i.ibb.co/LXLdKnK9/bed290bff1bd.jpg'
     ];
 
     const randomPic = ownerPics[0];
@@ -27,16 +27,16 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   
 ╠═══════════════════╣̍̍͆͆͆͆͆͆
 ║                           
-║  👤 𝐍𝐚𝐦𝐞: SARDAR RDX    
+║  👤 𝐍𝐚𝐦𝐞: Raja boss    
 ║                           
 ╠═══════════════════╣̥̥̥̥̥̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          
 ║                           
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              
-║  facebook.com/SARDAR RDX 
+║   https://www.facebook.com/profile.php?id=61563639430637
 ║                           
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              
-║  wa.me/923301068874       
+║  wa.me/923709690437       
 ║                           
 ╠═══════════════════╣̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           
