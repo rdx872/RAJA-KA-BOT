@@ -41,7 +41,7 @@ module.exports = {
 ╠═══════════════════╣̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           
 ║                           
-║  📛 Name: ${config.BOTNAME || 'Raja g'}
+║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 1.0      
 ║  🛠️ Framework: RDX-FCA    
