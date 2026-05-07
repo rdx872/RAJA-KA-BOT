@@ -7,7 +7,7 @@ module.exports = {
     name: 'owner',
     aliases: ['dev', 'creator', 'developer'],
     description: 'Show bot owner information',
-    credits: "SARDAR RDX",
+    credits: "Raja g",
     usage: 'owner',
     category: 'Info',
     prefix: false
@@ -41,7 +41,7 @@ module.exports = {
 ╠═══════════════════╣̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           
 ║                           
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || 'Raja g'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 1.0      
 ║  🛠️ Framework: RDX-FCA    
