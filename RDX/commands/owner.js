@@ -7,7 +7,7 @@ module.exports = {
     name: 'owner',
     aliases: ['dev', 'creator', 'developer'],
     description: 'Show bot owner information',
-    credits: "Raja g",
+    credits: "SARDAR RDX",
     usage: 'owner',
     category: 'Info',
     prefix: false
