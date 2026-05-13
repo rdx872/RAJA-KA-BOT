@@ -208,7 +208,7 @@ function showFullHelp({ api, event, send, client, config }) {
 
   msg += `────────────────
    💡 Use ${config.PREFIX}help [cmd]
-   👤 Owner: SARDAR RDX
+   👤 Owner: Raja G
 ────────────────`;
 
   return send.reply(msg);
