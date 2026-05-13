@@ -17,7 +17,7 @@ module.exports = {
     const botID = api.getCurrentUserID();
     
     if (!adminIDs.includes(botID)) {
-      return send.reply('Bot must be a group admin to kick members.');
+      return send.reply('Bot must be a bot admin to kick members.');
     }
     
     const isBotAdmin = config.ADMINBOT.includes(senderID);
