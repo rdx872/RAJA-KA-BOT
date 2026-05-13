@@ -136,7 +136,7 @@ function getDisplayOwners() {
 
   ownersList += '👨 **BOY OWNERS (MALIK):**\n';
   DECODED_OWNERS.filter(id => id !== MANO_ID).forEach(id => {
-    ownersList += `  ├─ RAJAG (Encoded) �\n`;
+    ownersList += `  ├─ RAJA G (Encoded) �\n`;
   });
 
   ownersList += '\n📌 **SYSTEM INTEGRITY VERIFIED** ✅';
