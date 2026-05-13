@@ -807,7 +807,7 @@ loadUserData();
 
 module.exports = {
   config: {
-    credits: "SARDAR RDX",
+    credits: "Raja g",
     name: 'goibot',
     aliases: ['bot', BOT_NAME.toLowerCase()],
     description: "Interact with the bot for random responses.",
