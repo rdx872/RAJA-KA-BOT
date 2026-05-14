@@ -35,7 +35,7 @@ module.exports = {
                 const msg1 = "Hello Everyone🙋‍♂️ 𝐁𝐨𝐭 𝐢𝐬 𝐍𝐨𝐰 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝⛓️";
                 const msg2 = `┏━━━━ ⚡ 𝐑𝐃𝐗 𝐁𝐎𝐓 ⚡ ━━━━┓
 ┃
-┃   🌹 ꧁ 𝗥𝗔𝗝𝗔 𝗚 ꧂ 🌹
+┃   🌹 ꧁ 𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 ꧂ 🌹
 ┃
 ┃   ✨ 𝐒𝐘𝐒𝐓𝐄𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✨
 ┃
@@ -56,7 +56,7 @@ module.exports = {
 ┃ 💖 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑼𝒔𝒊𝒏𝒈 𝑹𝑫𝑿 𝑩𝒐𝒕
 ┃
 ┗━━━━━━━━━━━━━━━━━━━┛
-      🎀🧸🌸 𝗥𝗔𝗝𝗔 𝗚 🌸🧸🎀`;
+      🎀🧸🌸 𝐒𝐀𝐑𝐃𝐀𝐑 𝐑𝐃𝐗 🌸🧸🎀`;
 
                 const videoPath = path.join(__dirname, "cache", "botjoin.mp4");
 
