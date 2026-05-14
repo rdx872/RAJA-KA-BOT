@@ -33,7 +33,7 @@ module.exports = {
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          
 ║                           
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              
-║   https://www.facebook.com/profile.php?id=61563639430637
+║   https://www.facebook.com/profile.php?id=100089796552096
 ║                           
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              
 ║  wa.me/923709690437       
