@@ -44,9 +44,9 @@ module.exports = {
 ┃
 ┃ 👑 【 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 】 👑
 ┃ 👤 𝐍𝐚𝐦𝐞: Raja G
-┃ 🌐 𝐈𝐃: https://www.facebook.com/profile.php
+┃ 🌐 𝐈𝐃: fb.com/Sardar.RDX.786
 ┃ 📞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: +923709690437
-┃ ✈️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @Raja g123
+┃ ✈️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @SardarRDX7
 ┃
 ┃ ⚠️ 【 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 】 ⚠️
 ┃ 📍 Bot ID active for 5 days.
